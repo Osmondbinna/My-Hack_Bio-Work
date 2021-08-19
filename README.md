@@ -9,7 +9,9 @@ This will detail all the work I will do in Hack-Bio internship
 2. Fill with the following details;
    >BAM File
    >> Ensure the mapped reads (bam) file of the snippy output is selected.
-   
-   >Keep the rest parameters unchanged.
 
-3. Then `Execute`☑️
+3. Keep the rest parameters unchanged.
+
+4. Then `Execute`☑️
+
+5. View the output, paying attention to the sequences, reads mapped and reads unmapped results.
